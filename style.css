@@ -1,0 +1,101 @@
+body {
+    font-family: sans-serif;
+}
+
+
+nav {
+     font-size: 40px;
+    
+    
+    
+    
+}
+
+
+
+
+a {
+    background-color: black;
+    color: azure;
+    border-radius: 15px;
+    text-decoration: none;
+    text-shadow: 3px 5px 10px yellow;
+}
+
+p {
+    font-size: 20px;
+    color: azure;
+    background-color: black;
+    border-radius: 15px;
+    box-shadow: 10px 5px 7px green;
+    padding-left: 8px;
+}
+
+
+
+a:hover {
+    font-size: 70px;
+    transition: 3s ease-in-out ;
+}
+
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 3px 5px  slateblue;
+}
+
+
+
+h4 {
+    text-align: center;
+    font-size: 70px;
+    color: black;
+    text-shadow: 3px 5px  slateblue;
+}
+
+
+
+p:hover {
+    font-size: 50px;
+    transition: 5s ease-in-out;
+    
+}
+
+
+
+
+
+
+h2 {
+    font-size: 70px;
+    text-align: center;
+    color: black;
+}
+
+
+h3 {
+    font-size: 70px;
+    text-align: center;
+    text-shadow: 3px 5px  slateblue;
+}
+
+
+article h4 {
+    color: black;
+}
+
+
+
+h5 {
+    color: black;
+    font-size: 20px;
+}
+
+
+footer {
+    background-color: blue;
+    border-radius: 15px;
+}
+
+
